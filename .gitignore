@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# 打包产物（.skill 文件建议放在 GitHub Release 里，而非直接提交到仓库）
+*.skill
+
+# 编辑器
+.vscode/
+.idea/
